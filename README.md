@@ -29,8 +29,10 @@ This project demonstrates core front-end web development concepts like responsiv
 ---
 
 ## Screenshots
-<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/2690fbbe-aa16-4a00-a453-2527b3c9adc5" />
-<img width="1917" height="870" alt="image" src="https://github.com/user-attachments/assets/13b199db-e01a-4bc2-a454-0931cf7ca548" />
+<img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/c88d4ca3-8e2b-449b-8569-b89e7bb4b0d1" />
+<img width="1919" height="870" alt="image" src="https://github.com/user-attachments/assets/7df62d1f-2fb2-4f25-89d3-16a081066400" />
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/1584c7f8-58bf-4c21-8deb-24cb63f0d35e" />
+
 
 
 
